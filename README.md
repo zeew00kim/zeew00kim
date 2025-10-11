@@ -57,13 +57,12 @@
     👨‍💻 Contact me
   </h3>
 </div>
+
 <div align="center">
-  <a href="https://velog.io/@zeew00/posts">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  <a href="https://velog.io/@zeew00/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
-  <a href="mailto:tukzeew00@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="mailto:tukzeew00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
-
