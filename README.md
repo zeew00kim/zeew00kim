@@ -69,6 +69,5 @@
 
 ---
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeew00kim&show_icons=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=zeew00kim&show_icons=true&theme=tokyonight" />
 </div>
-
