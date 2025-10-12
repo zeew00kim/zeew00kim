@@ -13,10 +13,10 @@
 </div>
 
 <div align="center">
-  🚀 효율 및 성능 중시
+  🚀 효율•성능 중시
 </div>
 <div align="center">
-  🖥️ H/W 및 OS 구조 이해
+  🖥️ H/W•OS 구조 이해
 </div>
 <div align="center">
   ⚙️ 시스템 최적화
