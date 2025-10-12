@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:0a4fff&height=130&section=footer&text=Welcome!!&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=C/CPP%20Developer%20ZEEW00's%20github&descAlign=50&descAlignY=70&descSize=26&descAnimation=twinkling" width="80%" style="display:block; margin:auto; border-radius:15px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:0a4fff&height=130&section=footer&text=Welcome!&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=C/CPP%20Developer%20ZEEW00's%20github&descAlign=50&descAlignY=70&descSize=26&descAnimation=twinkling" width="80%" style="display:block; margin:auto; border-radius:15px;"/>
 </div>
 
 ---
@@ -16,10 +16,10 @@
   🚀 효율 및 성능 중시
 </div>
 <div align="center">
-  ⚙️ 시스템 최적화
+  🖥️ H/W 및 OS 구조 이해
 </div>
 <div align="center">
-  ‼️에러 대처 능력
+  ⚙️ 시스템 최적화
 </div>
 
 ---
@@ -53,7 +53,7 @@
 ---
 
 <div align="center">
-  <h3>📖 Certifications</h3>
+  <h3>📖 Related Certifications</h3>
 </div>
 
 <div align="center">
