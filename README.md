@@ -59,10 +59,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/정보처리기사-0078D7?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/정보처리산업기사-4682B4?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/사무자동화산업기사-6A5ACD?style=for-the-badge&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/사무자동화산업기사-6A5ACD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLD-F80000?style=for-the-badge&logoColor=white"/><br>
   
   <img src="https://img.shields.io/badge/Linux_Master_2급-FCC624?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQLD-F80000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/정보기기운용기능사-40C0C4?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/정보처리기능사-5DADE2?style=for-the-badge&logoColor=white"/><br>
 </div>
