@@ -86,5 +86,5 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeew00kim&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeew00kim&show_icons=true&theme=tokyonight" alt="zeew00kim's GitHub stats" />
 </div>
